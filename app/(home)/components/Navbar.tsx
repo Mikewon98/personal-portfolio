@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 function Navbar({ className }: { className?: string }) {
   const socials = [
     {
-      link: "www.linkedin.com/in/michael-wondwossen-9837491b3",
+      link: "https://www.linkedin.com/in/michael-wondwossen-9837491b3/",
       label: "LinkedIn",
       Icon: FaLinkedin,
     },

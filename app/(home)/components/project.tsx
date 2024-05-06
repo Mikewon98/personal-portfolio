@@ -28,7 +28,7 @@ export default function Project() {
       title: "Biniyam Woodworks",
       tech: [SiNextdotjs, SiJavascript, SiTailwindcss],
       link: "https://biniyamwoodworks.com/",
-      cover: "/biniyam_woodworks_screenshot.png",
+      cover: "/biniyam_woodworks_screenshot.PNG",
       background: "bg-red-500",
     },
 
